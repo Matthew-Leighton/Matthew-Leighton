@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Matt! 👋
+
+- I'm a graduate student in the <a href="https://www.sfu.ca/physics/sivakgroup.html">Sivak Group</a> at Simon Fraser University in British Columbia, Canada.
 
 <!--
 **Matthew-Leighton/Matthew-Leighton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
